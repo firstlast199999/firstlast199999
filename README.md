@@ -2,6 +2,10 @@
 
 I am First Last, a professional software developer
 
+📱 Senior Mobile App Developer | 7+ years of crafting digital experiences | Proficient in Android, React Native, Xamarin, Swift | 
+Expertise in UI/UX design using Photoshop | Passionate about seamless app experiences | Turning concepts into polished, user-centric apps | 
+#MobileDev #Android #iOS #ReactNative
+
 <!--
 **firstlast199999/firstlast199999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
