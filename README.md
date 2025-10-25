@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am First Last, a professional software developer
+
 <!--
 **firstlast199999/firstlast199999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
